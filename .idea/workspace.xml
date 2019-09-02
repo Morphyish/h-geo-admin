@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d4ce2ed-b870-4867-a9dc-e80c6ee50f41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/admin.h-geo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/fixtures/example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/integration/spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/plugins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/commands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase.config.sample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/markdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cahiers-de-texte/Entry.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/categories/Section.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/categories/SectionForm.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/classes/Classe.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/classes/ClasseForm.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contenu/Link.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Button.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/FileUpload.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Footer.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Grid.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Input.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Loading.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Nav.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/SideNav.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/TextArea.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/_error.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/_layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/cahiers-de-texte/[slug]/_layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/cahiers-de-texte/[slug]/add.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/cahiers-de-texte/[slug]/index.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/cahiers-de-texte/_layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/cahiers-de-texte/index.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/categories/_layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/categories/index.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/classes/_layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/classes/index.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/contenu/[slug]/add.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/contenu/[slug]/index.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/contenu/_layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/contenu/index.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/index.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/entries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/links.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/niveaux.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/sections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/logo-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/logo-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/robots.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="admin.h-geo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Oe2sIXOZbaJpvdxdAfbGQqw94s" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Morphyish\WebstormProjects\admin.h-geo\src\routes\cahiers-de-texte\[slug]" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\admin.h-geo\src\routes\database" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\admin.h-geo\src\routes\database\categories" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\admin.h-geo\src\routes\database\classes" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\admin.h-geo\src\routes\categories" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Morphyish\WebstormProjects\admin.h-geo\static" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\admin.h-geo\src\components\ui" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\admin.h-geo\src\stores" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\admin.h-geo" />
+      <recent name="C:\Users\Morphyish\WebstormProjects\admin.h-geo\src\common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.export">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="export" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="export" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.dev" />
+      <item itemvalue="npm.export" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d4ce2ed-b870-4867-a9dc-e80c6ee50f41" name="Default Changelist" comment="" />
+      <created>1563280775515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563280775515</updated>
+      <workItem from="1563280776715" duration="31247000" />
+      <workItem from="1563543617312" duration="3654000" />
+      <workItem from="1563547537933" duration="14678000" />
+      <workItem from="1563803028727" duration="1202000" />
+      <workItem from="1564058555533" duration="674000" />
+      <workItem from="1564060669527" duration="1541000" />
+      <workItem from="1564134773995" duration="14762000" />
+      <workItem from="1564323948811" duration="1311000" />
+      <workItem from="1564393762182" duration="1197000" />
+      <workItem from="1565532476691" duration="14234000" />
+      <workItem from="1565861104760" duration="34613000" />
+      <workItem from="1567152760641" duration="12346000" />
+      <workItem from="1567284226601" duration="546000" />
+      <workItem from="1567358761405" duration="2194000" />
+      <workItem from="1567433845390" duration="1877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../starship/node_modules/@apollographql/apollo-tools/node_modules/apollo-env/src/fetch/index.d.ts" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/apollo-env/src/fetch/index.d.ts" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/@apollographql/apollo-tools/node_modules/apollo-env/src/fetch/global.d.ts" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/apollo-env/src/fetch/global.d.ts" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/apollo-server-testing/node_modules/apollo-server-env/src/index.d.ts" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/apollo-server-env/src/index.d.ts" />
+        <option value="$PROJECT_DIR$/../starship/node_modules/wait-for-expect/lib/index.d.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
